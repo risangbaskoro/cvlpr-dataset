@@ -1,0 +1,35 @@
+<annotation>
+    <folder>images</folder>
+    <filename>IMG_5283.jpeg</filename>
+    <size>
+        <width>4032</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3339.171875</xmin>
+            <ymin>1530.494019</ymin>
+            <xmax>3552.118896</xmax>
+            <ymax>1595.472534</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1369.660400</xmin>
+            <ymin>1610.467529</ymin>
+            <xmax>1616.599121</xmax>
+            <ymax>1689.441406</ymax>
+        </bndbox>
+    </object>
+</annotation>

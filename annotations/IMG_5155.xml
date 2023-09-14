@@ -1,0 +1,35 @@
+<annotation>
+    <folder>images</folder>
+    <filename>IMG_5155.jpeg</filename>
+    <size>
+        <width>4032</width>
+        <height>3024</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3291.183838</xmin>
+            <ymin>1475.512207</ymin>
+            <xmax>3737.073242</xmax>
+            <ymax>1608.468262</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>517.871765</xmin>
+            <ymin>1690.441162</ymin>
+            <xmax>935.768066</xmax>
+            <ymax>1826.396118</ymax>
+        </bndbox>
+    </object>
+</annotation>

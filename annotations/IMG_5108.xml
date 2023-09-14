@@ -1,0 +1,22 @@
+<annotation>
+    <folder>images</folder>
+    <filename>IMG_5108.jpeg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1350.553589</xmin>
+            <ymin>2275.435791</ymin>
+            <xmax>1781.411133</xmax>
+            <ymax>2421.399658</ymax>
+        </bndbox>
+    </object>
+</annotation>

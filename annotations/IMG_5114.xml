@@ -1,0 +1,35 @@
+<annotation>
+    <folder>images</folder>
+    <filename>IMG_5114.jpeg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2758.087891</xmin>
+            <ymin>2829.298340</ymin>
+            <xmax>2924.033203</xmax>
+            <ymax>2939.270996</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1414.532471</xmin>
+            <ymin>3057.241699</ymin>
+            <xmax>1660.451050</xmax>
+            <ymax>3231.198486</ymax>
+        </bndbox>
+    </object>
+</annotation>
